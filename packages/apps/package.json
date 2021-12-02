@@ -24,6 +24,7 @@
     "@felvin-search-apps/async-api-validator": "^1.23.0",
     "@felvin-search-apps/bouncy-ball": "^1.25.0",
     "@felvin-search-apps/capitals": "^1.25.0",
+    "@felvin-search-apps/code-reference": "^1.0.0",
     "@felvin-search-apps/color-picker": "^1.18.0",
     "@felvin-search-apps/compressify": "^1.16.0",
     "@felvin-search-apps/courier-tracker": "^1.25.0",
